@@ -62,7 +62,7 @@ https://github.com/MAVERICK-VF142/test.git
 ```
 - Navigate to project directory.
 ```
-cd Hacktoberfest-2K22
+cd test
 ```
 
 - Create a new Branch

@@ -57,7 +57,7 @@ keep in mind that repo has hacktoberfest topic..
 - Clone on your local machine
 
 ```
-git clone https://github.com/KIET7UKE/Hacktoberfest-2K22
+https://github.com/MAVERICK-VF142/test.git
 
 ```
 - Navigate to project directory.
